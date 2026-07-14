@@ -1,0 +1,46 @@
+{
+  "CUST-001": [
+    { "ticketId": "T-1001", "issue": "API Timeout", "priority": "High", "status": "Open", "category": "Technical", "createdDate": "2026-07-12", "resolvedDate": null },
+    { "ticketId": "T-1002", "issue": "Invoice Issue", "priority": "Medium", "status": "Closed", "category": "Billing", "createdDate": "2026-06-15", "resolvedDate": "2026-06-17" }
+  ],
+  "CUST-002": [
+    { "ticketId": "T-1003", "issue": "Login Issue", "priority": "High", "status": "Open", "category": "Access", "createdDate": "2026-07-13", "resolvedDate": null },
+    { "ticketId": "T-1004", "issue": "Dashboard not loading", "priority": "Critical", "status": "Open", "category": "Technical", "createdDate": "2026-07-14", "resolvedDate": null }
+  ],
+  "CUST-003": [
+    { "ticketId": "T-1005", "issue": "Webhook Failure", "priority": "High", "status": "Closed", "category": "Integration", "createdDate": "2026-07-01", "resolvedDate": "2026-07-02" },
+    { "ticketId": "T-1006", "issue": "Feature request: Custom reports", "priority": "Low", "status": "Open", "category": "Product", "createdDate": "2026-07-10", "resolvedDate": null }
+  ],
+  "CUST-004": [
+    { "ticketId": "T-1007", "issue": "Slow Dashboard", "priority": "Medium", "status": "Closed", "category": "Performance", "createdDate": "2026-06-25", "resolvedDate": "2026-06-26" }
+  ],
+  "CUST-005": [
+    { "ticketId": "T-1008", "issue": "Data Export Failing", "priority": "High", "status": "Open", "category": "Technical", "createdDate": "2026-07-11", "resolvedDate": null },
+    { "ticketId": "T-1009", "issue": "Billing Details Update", "priority": "Low", "status": "Closed", "category": "Billing", "createdDate": "2026-07-05", "resolvedDate": "2026-07-06" },
+    { "ticketId": "T-1010", "issue": "User Role Management", "priority": "Medium", "status": "Open", "category": "Access", "createdDate": "2026-07-13", "resolvedDate": null }
+  ],
+  "CUST-006": [
+    { "ticketId": "T-1011", "issue": "SSO Integration", "priority": "Critical", "status": "Closed", "category": "Integration", "createdDate": "2026-06-10", "resolvedDate": "2026-06-15" }
+  ],
+  "CUST-007": [
+    { "ticketId": "T-1012", "issue": "Mobile App Sync", "priority": "Medium", "status": "Open", "category": "Technical", "createdDate": "2026-07-14", "resolvedDate": null }
+  ],
+  "CUST-008": [
+    { "ticketId": "T-1013", "issue": "API Rate Limit Exceeded", "priority": "High", "status": "Closed", "category": "Technical", "createdDate": "2026-07-08", "resolvedDate": "2026-07-09" },
+    { "ticketId": "T-1014", "issue": "Custom Domain Setup", "priority": "Medium", "status": "Open", "category": "Technical", "createdDate": "2026-07-12", "resolvedDate": null },
+    { "ticketId": "T-1015", "issue": "Invoice Not Received", "priority": "Medium", "status": "Open", "category": "Billing", "createdDate": "2026-07-13", "resolvedDate": null },
+    { "ticketId": "T-1016", "issue": "Analytics Discrepancy", "priority": "Low", "status": "Open", "category": "Product", "createdDate": "2026-07-14", "resolvedDate": null }
+  ],
+  "CUST-009": [
+    { "ticketId": "T-1017", "issue": "Change subscription plan", "priority": "Medium", "status": "Closed", "category": "Billing", "createdDate": "2026-07-02", "resolvedDate": "2026-07-03" }
+  ],
+  "CUST-010": [
+    { "ticketId": "T-1018", "issue": "Password Reset not working", "priority": "High", "status": "Closed", "category": "Access", "createdDate": "2026-07-01", "resolvedDate": "2026-07-01" }
+  ],
+  "CUST-011": [
+    { "ticketId": "T-1019", "issue": "Missing Data in Report", "priority": "High", "status": "Open", "category": "Technical", "createdDate": "2026-07-10", "resolvedDate": null }
+  ],
+  "CUST-012": [
+    { "ticketId": "T-1020", "issue": "Onboarding Help", "priority": "Low", "status": "Closed", "category": "Support", "createdDate": "2026-06-20", "resolvedDate": "2026-06-22" }
+  ]
+}

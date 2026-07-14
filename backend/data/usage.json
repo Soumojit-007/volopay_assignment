@@ -1,0 +1,14 @@
+{
+  "CUST-001": { "weeklyActiveUsers": 150, "monthlyActiveUsers": 500, "usageTrend": "Down 15%", "lastLogin": "2026-07-10", "featureAdoption": 45 },
+  "CUST-002": { "weeklyActiveUsers": 45, "monthlyActiveUsers": 120, "usageTrend": "Down 42%", "lastLogin": "2026-06-30", "featureAdoption": 20 },
+  "CUST-003": { "weeklyActiveUsers": 1200, "monthlyActiveUsers": 4500, "usageTrend": "Up 18%", "lastLogin": "2026-07-14", "featureAdoption": 85 },
+  "CUST-004": { "weeklyActiveUsers": 5, "monthlyActiveUsers": 12, "usageTrend": "Down 50%", "lastLogin": "2026-06-25", "featureAdoption": 10 },
+  "CUST-005": { "weeklyActiveUsers": 80, "monthlyActiveUsers": 250, "usageTrend": "Stable", "lastLogin": "2026-07-13", "featureAdoption": 60 },
+  "CUST-006": { "weeklyActiveUsers": 3000, "monthlyActiveUsers": 9500, "usageTrend": "Up 5%", "lastLogin": "2026-07-14", "featureAdoption": 92 },
+  "CUST-007": { "weeklyActiveUsers": 20, "monthlyActiveUsers": 65, "usageTrend": "Down 35%", "lastLogin": "2026-07-01", "featureAdoption": 30 },
+  "CUST-008": { "weeklyActiveUsers": 800, "monthlyActiveUsers": 2200, "usageTrend": "Up 12%", "lastLogin": "2026-07-14", "featureAdoption": 75 },
+  "CUST-009": { "weeklyActiveUsers": 110, "monthlyActiveUsers": 340, "usageTrend": "Up 25%", "lastLogin": "2026-07-12", "featureAdoption": 55 },
+  "CUST-010": { "weeklyActiveUsers": 15, "monthlyActiveUsers": 40, "usageTrend": "Stable", "lastLogin": "2026-07-08", "featureAdoption": 25 },
+  "CUST-011": { "weeklyActiveUsers": 40, "monthlyActiveUsers": 150, "usageTrend": "Down 20%", "lastLogin": "2026-07-09", "featureAdoption": 35 },
+  "CUST-012": { "weeklyActiveUsers": 500, "monthlyActiveUsers": 1800, "usageTrend": "Up 8%", "lastLogin": "2026-07-13", "featureAdoption": 65 }
+}

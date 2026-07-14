@@ -1,0 +1,42 @@
+{
+  "CUST-001": [
+    { "date": "2026-07-10", "sender": "john.doe@acmecorp.com", "message": "Can we postpone renewal? We are still evaluating our budget." },
+    { "date": "2026-06-25", "sender": "jane.smith@acmecorp.com", "message": "Great onboarding experience, thanks for the help." }
+  ],
+  "CUST-002": [
+    { "date": "2026-07-13", "sender": "admin@techflow.io", "message": "Still facing integration issue with our CRM. Please escalate." },
+    { "date": "2026-07-05", "sender": "billing@techflow.io", "message": "Need pricing clarification for adding 50 more seats." }
+  ],
+  "CUST-003": [
+    { "date": "2026-07-12", "sender": "cto@globalretail.co.uk", "message": "The new API endpoints are exactly what we needed. Excellent work." }
+  ],
+  "CUST-004": [
+    { "date": "2026-07-01", "sender": "founder@startupx.com", "message": "We might need to downgrade our plan next month due to cost cutting." }
+  ],
+  "CUST-005": [
+    { "date": "2026-07-11", "sender": "ops@healthplus.au", "message": "The reporting module is too slow for our weekly meetings. Any fixes coming?" },
+    { "date": "2026-06-20", "sender": "ops@healthplus.au", "message": "Can we get a demo of the enterprise features?" }
+  ],
+  "CUST-006": [
+    { "date": "2026-07-08", "sender": "it@finserve.com", "message": "Security audit completed successfully. Thanks for providing the compliance docs." }
+  ],
+  "CUST-007": [
+    { "date": "2026-07-14", "sender": "support@edutech.uk", "message": "I cannot access the admin panel since this morning. This is urgent!" }
+  ],
+  "CUST-008": [
+    { "date": "2026-07-10", "sender": "logistics@logpro.de", "message": "Need custom reporting for our Q3 metrics." },
+    { "date": "2026-06-15", "sender": "logistics@logpro.de", "message": "Our account manager is unresponsive." }
+  ],
+  "CUST-009": [
+    { "date": "2026-07-05", "sender": "editor@mediacorp.com", "message": "Loving the new dashboard layout." }
+  ],
+  "CUST-010": [
+    { "date": "2026-06-28", "sender": "admin@greenenergy.ca", "message": "How do we add more users to our account?" }
+  ],
+  "CUST-011": [
+    { "date": "2026-07-12", "sender": "chef@foodiesapp.com", "message": "The app keeps crashing when we try to upload large files." }
+  ],
+  "CUST-012": [
+    { "date": "2026-07-02", "sender": "pm@buildit.com", "message": "We are very satisfied with the platform so far." }
+  ]
+}
